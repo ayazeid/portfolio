@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279" height="307" viewBox="0 0 279 307">
+  <defs>
+    <filter id="A" x="31" y="32" width="176" height="287" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Z" x="115" y="148" width="84" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Logo-accent">
+      <rect width="279" height="307"/>
+    </clipPath>
+  </defs>
+  <g id="Logo-accent" clip-path="url(#clip-Logo-accent)">
+    <rect width="279" height="307" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#A)">
+      <text id="A-2" data-name="A" transform="translate(50 194)" fill="#ffc107" font-size="226" font-family="SavoyeLetPlain, Savoye LET"><tspan x="0" y="0">A</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Z)">
+      <text id="Z-2" data-name="Z" transform="translate(127 227)" fill="#ffc107" font-size="106" font-family="SavoyeLetPlain, Savoye LET"><tspan x="0" y="0">Z</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "MyReads",
+    "desc": "",
+    "part": "",
+    "tools": [
+      "../assets/reacticon.svg",
+      "../assets/htmlicon.svg",
+      "../assets/cssicon.svg",
+      "../assets/javascripticon.svg",
+      "../assets/api.png"
+    ],
+    "imagesURL": [
+      "../assets/screens/myread-web.png",
+      "../assets/screens/myread-tab.png",
+      "../assets/screens/myread-mobile.png",
+      "../assets/screens/myread-search-web.png",
+      "../assets/screens/myread-search-tab.png",
+      "../assets/screens/myread-search-mobile.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Would you rather? Game",
+    "desc": "",
+    "part": "",
+    "tools": [
+      "../assets/reacticon.svg",
+      "../assets/redux-48.png",
+      "../assets/htmlicon.svg",
+      "../assets/cssicon.svg",
+      "../assets/javascripticon.svg",
+      "../assets/api.png"
+    ],
+    "imagesURL": [
+      "../assets/screens/rather2-web.png",
+      "../assets/screens/rather1-web.png",
+      "../assets/screens/rather3-web.png",
+      "../assets/screens/rather4-web.png",
+      "../assets/screens/rather-tab.png",
+      "../assets/screens/rather2-tab.png",
+      "../assets/screens/rather3-tab.png",
+      "../assets/screens/rather4-tab.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Landing Page",
+    "desc": "",
+    "part": "",
+    "tools": [
+      "../assets/htmlicon.svg",
+      "../assets/cssicon.svg",
+      "../assets/javascripticon.svg"
+    ],
+    "imagesURL": [
+      "../assets/screens/landing-web.png",
+      "../assets/screens/landing-tab.png",
+      "../assets/screens/landing-mobile.png"
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Bee E-commerce",
+    "desc": "",
+    "part": "Teamwork",
+    "tools": [
+      "../assets/htmlicon.svg",
+      "../assets/cssicon.svg",
+      "../assets/javascripticon.svg",
+      "../assets/api.png"
+    ],
+    "imagesURL": [
+      "../assets/screens/bee-web.png",
+      "../assets/screens/bee-tab.png",
+      "../assets/screens/bee-mobile.png",
+      "../assets/screens/bee-product-web.png",
+      "../assets/screens/bee-product-tab.png",
+      "../assets/screens/bee-product-mobile.png"
+    ]
+  }
+]

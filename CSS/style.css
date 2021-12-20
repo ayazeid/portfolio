@@ -1,0 +1,211 @@
+/** Colors  and Fonts Variables*/
+
+:root {
+  /* Colors */
+  --clr-black: 0 0 0;
+  --clr-dark: 63 51 81;
+  --clr-accent: 255 193 7;
+  --clr-white: 255 255 255;
+  --clr-bold: 255 109 109;
+}
+
+/*Text colors*/
+.bgBlack {
+  background-color: rgb(var(--clr-black)) !important;
+}
+
+.bgDark {
+  background-color: rgb(var(--clr-dark)) !important;
+}
+.bgAccent {
+  background-color: rgb(var(--clr-accent)) !important;
+}
+.bgBold {
+  background-color: rgb(var(--clr-bold)) !important;
+}
+.bgWhite {
+  background-color: rgb(var(--clr-white)) !important;
+}
+
+/*Text colors*/
+.txtBlack {
+  color: rgb(var(--clr-black)) !important;
+}
+
+.txtDark {
+  color: rgb(var(--clr-dark)) !important;
+}
+.txtAccent {
+  color: rgb(var(--clr-accent)) !important;
+}
+.txtBold {
+  color: rgb(var(--clr-bold)) !important;
+}
+.txtWhite {
+  color: rgb(var(--clr-white)) !important;
+}
+
+/** style */
+
+* {
+  font-family: "Roboto", sans-serif !important;
+}
+header {
+  /* background-image: url("https://www.transparenttextures.com/patterns/translucent-fibres.png"); */
+
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+}
+a {
+  color: rgb(var(--clr-white)) !important;
+}
+
+.nav-link.active {
+  color: rgb(var(--clr-accent)) !important;
+}
+h4 {
+  margin-bottom: 3rem !important;
+}
+section {
+  margin-bottom: 7rem !important;
+}
+/**Header*/
+
+.blob {
+  width: 360px;
+}
+.blob-card {
+  background-color: inherit !important;
+  border: none !important;
+  margin-right: 7rem !important;
+}
+.blob-img {
+  width: 275px;
+  z-index: 1000;
+  margin-left: 1rem !important;
+  margin-bottom: 0rem !important;
+}
+.bg-card {
+  background-color: inherit !important;
+  border: none !important;
+  max-width: fit-content;
+}
+.about-img {
+  width: 300px;
+  padding: auto;
+  margin-right: auto !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.page-link {
+  border: none;
+  border-radius: 10px !important;
+}
+.page-link.active {
+  color: rgb(var(--clr-accent)) !important;
+}
+li {
+  margin-bottom: 0.6rem;
+}
+
+#accordion .card {
+  border: none !important;
+  margin-bottom: 0.5rem !important;
+}
+#accordion .btn {
+  color: rgb(var(--clr-accent)) !important;
+  text-decoration: none;
+  padding: 0;
+}
+#accordion .btn:hover {
+  color: rgb(var(--clr-accent)) !important;
+}
+
+#accordion .collapsed {
+  color: rgb(var(--clr-white)) !important;
+  font-size: 14px !important;
+}
+
+#service-section img {
+  width: 200px;
+  align-self: center;
+}
+
+.btn-hide .btn {
+  width: 100% !important;
+}
+.btn-hide {
+  height: 50px;
+}
+.viewPort {
+  height: 30px !important;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.projectCard img {
+  height: 400px;
+}
+.projectCard {
+  margin: auto;
+}
+
+.topUpBtn {
+  border-radius: 20%;
+}
+@media screen and (max-width: 375px) {
+  .blob {
+    /* height: 390px; */
+    width: 300px;
+    /* left: 300px; */
+  }
+  .blob-card {
+    background-color: inherit !important;
+    border: none !important;
+    margin-right: 7rem !important;
+  }
+  .blob-img {
+    width: 227px !important;
+    z-index: 1000;
+    margin-left: 0.98rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .blob {
+    /* height: 390px; */
+    width: 425px;
+    /* left: 300px; */
+  }
+  .blob-card {
+    background-color: inherit !important;
+    border: none !important;
+    margin-right: 7rem !important;
+  }
+  .blob-img {
+    width: 333.4px !important;
+    z-index: 1000;
+    margin-left: 0.9rem !important;
+    margin-top: -0.4rem !important;
+  }
+}
+
+@media screen and (min-width: 1317px) {
+  .blob {
+    width: 500px;
+  }
+  .blob-card {
+    background-color: inherit !important;
+    border: none !important;
+    margin-right: 7rem !important;
+  }
+  .blob-img {
+    width: 390px !important;
+    z-index: 1000;
+    margin-left: 1.05rem !important;
+    margin-top: 0rem !important;
+  }
+}

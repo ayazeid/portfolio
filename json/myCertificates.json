@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "UX Design Fundamentals By Google",
+    "image": "../assets/certificates/UXGoogleCoursera.png",
+    "url": "https://drive.google.com/file/d/1jvCC_gg8Qf2Doai99bkmSJzvC_bxUGtt/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "name": "egFWD initative by ITIDA, Udacity Frontend Web Development Advanced Nanodegree",
+    "image": "../assets/certificates/fendAdvaUdacity.png",
+    "url": "https://drive.google.com/file/d/1zkZC8d4gqN3nqgXXOyV8CqC2B5sxEAnG/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "name": "egFWD initative by ITIDA, Udacity Frontend Web Development Professional Nanodegree",
+    "image": "../assets/certificates/fendProfUdacity.png",
+    "url": "https://drive.google.com/file/d/1C7jaF-ZDjzwp_CTWOp5r8zrLRth5HOAg/view?usp=sharing"
+  },
+  {
+    "id": 4,
+    "name": "Udemy Web Development Bootcamp by London App Brewry",
+    "image": "../assets/certificates/udemyWebBootcamp.png",
+    "url": "https://drive.google.com/file/d/1VpQUeNXZGFXMfHxE3byPgV6obalxLc8r/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "name": "Maharatech Database fundamentals",
+    "image": "../assets/certificates/DatabaseMaharatch.png",
+    "url": "https://drive.google.com/file/d/13fo88GnenjmrY6Ztxil4D7PubW7tKjZA/view?usp=sharing"
+  },
+  {
+    "id": 6,
+    "name": "Maharatech TypeScript",
+    "image": "../assets/certificates/TypescriptMaharatech.png",
+    "url": "https://drive.google.com/file/d/1vu5V9saYMt0HGdT1SHI_lhXaBa8cRoMp/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "name": "Maharatech JavaScript",
+    "image": "../assets/certificates/Javascript.png",
+    "url": "https://drive.google.com/file/d/1RsqVDoOyyM4OSAfaaB12Cs6QZ1oVDCD-/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "name": "Maharatech HTML & CSS",
+    "image": "../assets/certificates/HTML&CSSMaharatch.png",
+    "url": "https://drive.google.com/file/d/1e0ZQcOeek9nKvpYGzWagEcJBNKy-F7B9/view?usp=sharing"
+  }
+]
