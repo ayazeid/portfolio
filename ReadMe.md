@@ -1,6 +1,6 @@
 ### This a Portfolio project for ITI-Intensive Training Program
 
-### Done by @ayazeid
+### Done by Aya Maged
 
 ### Recommended:
 
